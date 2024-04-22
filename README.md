@@ -1,4 +1,4 @@
-*Calendar*
+**Calendar**
 
 Submitted by: **Brandon Ekow Anderson**
 
