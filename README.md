@@ -1,4 +1,4 @@
-# Project 7 - *Calendar*
+*Calendar*
 
 Submitted by: **Brandon Ekow Anderson**
 
